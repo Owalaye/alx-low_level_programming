@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * writing a program using put function
+ * main - writing a program using put function
+ * Return: (0)success
  */
 int main(void)
 {
