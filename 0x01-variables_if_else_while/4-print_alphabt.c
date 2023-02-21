@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	char k, e, q,
+	char k, e, q;
 	e = 'e';
 	q = 'q';
 
